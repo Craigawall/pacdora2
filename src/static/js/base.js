@@ -1,4 +1,4 @@
-window.appId = "Your app ID";
+window.appId = "c1e8427833bab187";
 function getQueryValue(queryName) {
   const paramsString = window.location.search.substring(1);
   const params = new URLSearchParams(paramsString);
